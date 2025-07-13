@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi there, I'm Mustafa İlker!
 
-<!--
-**mustafailkerkamaci/mustafailkerkamaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I'm currently focused on Full Stack development with **C#**, **ASP.NET Core**, and **JavaScript**.
+- 🌱 I'm working on **API Development and Integrations** and **increasing my knowledge in Software architectures and design patterns**.
+- 🚀 I aim to create value in projects with my problem-solving skills and teamwork aptitude.
+- 📫 You can reach me at: mustafailkerkmc@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafailkerkamaci)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustafailkerkamaci)
+
+---
